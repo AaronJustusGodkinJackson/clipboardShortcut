@@ -6,3 +6,10 @@ Copy your config, run this script, click on your console, and press the shift ke
 to paste text line by line, with a delay between lines.
 
 Hopefully this save you time <3
+
+Note:
+- Program uses time, pyperclip, and beautifulsoup4 modules
+
+So, you might need to:
+- 'pip install beautifulsoup4'
+- 'pip install pyperclip'
